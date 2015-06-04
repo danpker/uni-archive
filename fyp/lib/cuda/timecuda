@@ -1,0 +1,6 @@
+res1=$(date +%Y%m%d%H%M%S.%N)
+./cuda
+res2=$(date +%Y%m%d%H%M%S.%N)
+echo "Start time: $res1"
+echo "Stop time:  $res2"
+echo "Elapsed:    $(( res2 - res1 ))"

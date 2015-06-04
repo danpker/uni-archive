@@ -1,0 +1,14 @@
+
+.DS_Store
+
+tmpeof.tmproj
+
+tmpeof.tmproj
+
+images/*
+
+*.pyc
+
+*.tif
+*.xml
+*.dan
